@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Andrii Torulia
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter, python and C# (Unity)
+- 🌱 I’m currently learning Dart, python and C# (Unity)
 - 📫 How to reach me atorulia@gmail.com or https://t.me/atorulia
